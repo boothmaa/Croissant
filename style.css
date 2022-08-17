@@ -6,6 +6,10 @@ h1 {
     text-decoration: none;
 }
 
+.code-link {
+    color: white;
+}
+
 body {
     background-color: black;
 }
