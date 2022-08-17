@@ -5,3 +5,7 @@ h1 {
 .contact-link {
     text-decoration: none;
 }
+
+body {
+    background-color: black;
+}
